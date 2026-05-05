@@ -1,14 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.gif" width="400" alt="wide-2" />
+  <img src="https://www.american.edu/sis/research/initiatives/global-kurdish/images/BP-s-Return-to-Kirkuk-1200x630-1_5589884_600x315.jpg" width="400" alt="wide-2" />
 </div>
 
 
-🎬 برای دانلود ویدیوهای یوتیوب از این پروژه استفاده کنید :‌
-https://github.com/nikzad-avasam/youtube-dl
-
 
  
-
 
 ## ⬇️ دانلود کننده فایل + 🌐 مرورگر وب 
 
@@ -59,18 +56,4 @@ a
 - پاک کننده ی پوشه ی downloads اضافه شد در بخش Actions روی گزینه ی Clean download folder بزنید و سپس Run workflow را اجرا کنید تا پوشه ی downloads خالی شود.
 - نام دانلودر در بخش Actions به Download from url تغییر پیدا کرده است.
 - 🌐 مرورگر وب اضافه شد . برای استفاده از مرورگر به قسمت Actions روی گزینه ی browse web بزنید و سپس در قسمت run workflow ادرس سایت مقصد را بزنید. با این کار یک آرشیو با نام ادرس سایت و تاریخ آن لحظه ساخته میشود که درون آن اسکرین شات کامل صفحه به همراه فایل ها و لینک های صفحه قرار میگیره . همچنین فایل zip جهت دانلود در کنار پوشه ی تاریخ ساخته میشود که میتوانید یکجا دانلود کنید. یک فایل browse.md هم در مسیر اصلی ریپازیتوری اضافه میشود که شامل لیست تمام سایت هایی هست که دانلود کرده اید.
-
-
----
-
-> راه های تکراری نتایج جدید رقم نمیزند. برای نتیجه ای جدید باید راهی جدید امتحان کرد
-
- 
-# <a href="https://avasam.ir/post/get-files-by-github" target="_blank" rel="do-follow follow sponsered">🔗 آموزش ویدیویی استفاده از این ابزار </a>
-
-برای دریافت آموزش های بیشتر در پیام رسان بله عضو کانال ما باشید :‌
-# 🔗 https://ble.ir/avasam_edu
-
-
-موفق باشید.
 
