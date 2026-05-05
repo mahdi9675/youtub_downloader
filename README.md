@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.gif" width="400" height='220' alt="wide-2" />
+  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.gif" width="400" height='215' alt="wide-2" />
   <img src="https://www.american.edu/sis/research/initiatives/global-kurdish/images/BP-s-Return-to-Kirkuk-1200x630-1_5589884_600x315.jpg" width="400" alt="wide-2" />
 </div>
 
