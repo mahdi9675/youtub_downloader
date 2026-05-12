@@ -2,6 +2,7 @@
 
 - [watch](./watch)
 - [watch_lambda](./watch_lambda)
+- [watch_theta](./watch_theta)
 
 ---
 
