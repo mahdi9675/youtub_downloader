@@ -213,12 +213,16 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [watch](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/watch)
+1. [WhiteDNS-1.2.0-arm64-v8a](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/WhiteDNS-1.2.0-arm64-v8a)
 
-2. [watch_lambda](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/watch_lambda)
+2. [watch](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/watch)
 
-3. [watch_theta](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/watch_theta)
+3. [watch_lambda](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/watch_lambda)
+
+4. [watch_theta](https://github.com/mahdi9675/youtub_downloader/tree/main/downloads/watch_theta)
 
 ---

@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [WhiteDNS-1.2.0-arm64-v8a](./WhiteDNS-1.2.0-arm64-v8a)
 - [watch](./watch)
 - [watch_lambda](./watch_lambda)
 - [watch_theta](./watch_theta)
